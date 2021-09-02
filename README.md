@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![3d24rd0's github stats](https://github-readme-stats.vercel.app/api?username=fgadea&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true&hide_border=true)
 
 <!--**fgadea/fgadea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +17,5 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: ...
 -->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fgadea&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true)
 
-![3d24rd0's github stats](https://github-readme-stats.vercel.app/api?username=fgadea&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fgadea&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
