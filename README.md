@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Develapps.
+- 🔭 I’m currently working on Mercadona SA.
 - 🔭 I’m also freelance developer.
 - 🌱 I’m currently learning Artificial Intelligence.
 - 👯 I’m looking to collaborate on Flutter, Artificial Intelligence and open Source.
