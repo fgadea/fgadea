@@ -10,7 +10,7 @@ Here are some ideas to get you started:-->
 - 🔭 I love all related things about architecture.
 - 👯 I like to collaborate in Open Source projects.
 - 📫 How to reach me: felipe@fgadea.dev, 💬 Ask me about anything.
-- Technologies stack: iOS, Flutter, Application Architecture.
+- Technologies stack: iOS and Apple ecosystem, Flutter, Application Architecture.
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
